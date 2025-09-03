@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hairvana.com</title>
+    <link  rel="stylesheet" href="first.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+</head>
+<div>
+
+<div class="header">
+  <h1 style="text-align: left;color: green;font-family: Georgia, 'Times New Roman', Times, serif;padding-top: 25px;">🌿HAIRVANA </h1>
+<div class="green">
+<button class="btn btn-outline-info btn-lg" type="button" style="height: 50px;width: 100px;font-family: Georgia, 'Times New Roman', Times, serif;">About</button>
+<button class="btn btn-outline-info btn-lg" type="button" style="height: 50px;width: 100px;font-family: Georgia, 'Times New Roman', Times, serif;">Services</button>
+<button class="btn btn-outline-info btn-lg" type="button" style="height: 50px;width: 200px;font-family: Georgia, 'Times New Roman', Times, serif;">Shop / products</button>
+<div class="dropdown">
+  <button class="btn btn-info dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="height: 50px;width: 100px;font-family: Georgia, 'Times New Roman', Times, serif;">
+    Settings
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">Profile</a>
+    <a class="dropdown-item" href="#">Login</a>
+    <a class="dropdown-item" href="#">Subscription</a>
+  </div>
+</div>
+</div>
+</div>
+
+
+
+<div class="main">
+  <br>
+    <h1 style="font-family: Playfair Display;text-align: center;font-size: 70px;color: white;margin-top: 10px;">Hairvana </h1>
+<p style="font-family: 'Times New Roman', Times, serif;color: white;text-align: center;font-size: 30px;margin-top: 90px;">Unleash Your Inner Rapunzel – Naturally</p>
+<p style="font-family: 'Times New Roman', Times, serif;color: white;text-align: center;font-size: 20px;margin-top: 10px;">Stronger, longer, shinier hair in just weeks. No chemicals, no gimmicks – just nature’s magic.</p>
+
+<div class="buton">
+<button class="btn btn-success" type="button"><a href="offer.html" style="text-decoration: none;color: white;">✅ Get 20% Off Today</a></button>
+<button class="btn btn-success" type="button"><a href="type.html" style="text-decoration: none;color: white;">✅ Start Your Hair Growth Journey</a></button>
+<button class="btn btn-success" type="button">✅ Shop the Rapunzel Kit Now</button>
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="offer">
+    <br><br>
+    <br>
+<h2 style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;font-size: 50px;">✨ Limited Time Offer – 20% OFF Your First Order!</h2>
+<br>
+<br>
+<div class="third">
+<div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">BOGO on Shampoos</h5>
+    <p class="card-text">Buy one shampoo, get another free. Stock up now!</p>
+    <a href="#" class="btn btn-primary">BOGO</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <img src="https://images.unsplash.com/photo-1601049676869-702ea24cfd58?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Free Hair Mask</h5>
+    <p class="card-text">Free nourishing mask on orders over ₹999. Treat your hair!</p>
+    <a href="#" class="btn btn-primary">Hair masks</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1672082518029-8619a2c1e9dd?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Subscribe & Save 20%</h5>
+    <p class="card-text">Join our list and get 20% off your first order instantly.</p>
+    <a href="#" class="btn btn-primary">Subscribe</a>
+  </div>
+</div>
+</div>
+
+</div>
+<br>
+
+    <br>
+
+<div class="heading" style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;font-size: 100px;">🌿 Rapunzel Ritual ✨</div><br>
+<div class="kit">
+   
+<img src="https://images.unsplash.com/photo-1556229165-8aa0ceaa93a7?q=80&w=1187&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="height: 500px;padding-top: 20px;padding-left: 20px;">
+<div class="cardi" style="padding-left: 20px;padding-top: 20px;">
+<div class="card" style="width: 30rem;height: 30rem;background-image: url(https://plus.unsplash.com/premium_photo-1739198645188-c2f3653ac056?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);" >
+  <div class="card-body">
+   <br>
+    <h3 class="card-title" style="color: maroon;font-weight: bold;">Unlock Your Longest, Strongest Hair Yet with the Rapunzel Ritual!</h3>
+   <br><br>
+    <h5 class="card-subtitle mb-2 " style="color: black;">💆‍♀️ Our Signature Kit Designed to Nourish 🌸, Strengthen 💪, and Lengthen 💫 Your Hair — Naturally.
+
+</h5>
+    
+    <hr>
+    <br>
+    <p class="card-text"></p>
+    <button class="btn btn-success" type="button" style="color: white;"><a href="hairkit.html" class="card-link" style="text-decoration: none;color: white;">🧴 Hair Kit</a></button>
+    <button class="btn btn-success" type="button" style="color: white;"><a href="benefit.html" class="card-link" style="text-decoration: none;color: white;">The Hairly Benefits</a></button>
+
+  </div>
+</div>
+
+</div>
+
+</div>
+
+<hr>
+<br>
+<div>
+
+<h1 style="font-size: 40px;font-family: Georgia, 'Times New Roman', Times, serif;color: green;font-weight: bold;padding-left: 40px;">Best Seller's</h1>
+<h4 style="font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif;color: green;padding-left: 40px;">Haircare Heroes That Always Sell Out 💥🧴</h4>
+<p style="font-size: 15px;font-family: Georgia, 'Times New Roman', Times, serif;color: green;padding-left: 40px;">From nourishing oils to wooden combs — meet the products your hair actually loves.</p>
+ 
+<br><hr><br>
+<!--the first best seller-->
+<div class="section1">
+    <div class="title" style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: left;color: green;padding-left: 40px;">
+<h1 style="font-weight: bold;">Hair Oils</h1>
+<h5 style="font-family: Georgia, 'Times New Roman', Times, serif;">Nourish your scalp and revive your strands with our deeply enriching hair oil — a natural blend crafted to strengthen, soften, and stimulate healthy growth from root to tip.</h5>
+<button type="button" class="btn btn-outline-primary" style="font-family: Georgia, 'Times New Roman', Times, serif;text-decoration: none;color: black;">View All</button>
+    </div>
+<br><br>
+<div class="seller1">
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://images.unsplash.com/photo-1699373381616-6133334e754e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." >
+ 
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;"> 🌸 Bhringraj & Amla Hair Oil</h5>
+    <p class="card-text">Use: Promotes hair growth, reduces hair fall</p>
+    <p class="card-text">Key Ingredients: Bhringraj, Amla, Brahmi, Coconut Oil</p>
+    <p class="card-text">Vibe: Classic Ayurvedic powerhouse</p>
+    <a href="#" class="btn btn-primary"></a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://images.unsplash.com/photo-1696894756284-45bc28f439d8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title">💧 Rosemary Scalp Stimulating Oil</h5>
+    <p class="card-text">Use: Boosts blood circulation, strengthens roots</p>
+    <p class="card-text">Key Ingredients: Rosemary Oil, Peppermint, Jojoba</p>
+
+        <p class="card-text">Vibe: Lightweight, refreshing, growth-focused</p>
+
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1736727589074-75816e72008a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title">🧴 Onion Black Seed Hair Oil</h5>
+    <p class="card-text">Use: Reduces hair fall, improves volume</p>
+    <p class="card-text">Key Ingredients: Onion Extract, Black Seed Oil, Castor Oil</p>
+    <p class="card-text">Vibe: Popular modern remedy with deep nourishment</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://images.unsplash.com/photo-1664815155688-0f89d4355f64?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title">🥥 Coconut + Hibiscus Oil Blend</h5>
+    <p class="card-text">Use: Smooths frizz, adds shine</p>
+    <p class="card-text">Key Ingredients: Virgin Coconut Oil, Hibiscus Flower Extract</p>
+    <p class="card-text">Vibe: Gloss-enhancing and softening</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+
+
+
+
+
+
+</div>
+
+ </div>
+
+ <!--the second best seller series -->
+ 
+<div class="section2">  <!--above natural shampoo space-->
+    <div class="title" style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: left;color: green;padding-left: 40px;">
+<h1 style="font-weight: bold;">Natural Shampoo</h1>
+<h5 style="font-family: Georgia, 'Times New Roman', Times, serif;">Infused with nature’s finest herbs, our shampoos gently cleanse and nourish your hair, leaving it healthy, shiny, and full of life.</h5>
+<button type="button" class="btn btn-outline-primary" style="font-family: Georgia, 'Times New Roman', Times, serif;text-decoration: none;color: black;">View All</button>
+    </div>
+<br><br>
+<div class="seller2">
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://images.unsplash.com/photo-1642505171719-7711e15b039e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." >
+ 
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;"> 🌿🍋 Rosemary & Lemon Refresh Shampoo</h5>
+    <p class="card-text">Use: Clarifies scalp, controls oil, energizes roots</p>
+    <p class="card-text">Vibe: 💧 Fresh · 🍋 Zesty · 🔋 Energizing</p>
+    <p class="card-text">Key Ingredients: Rosemary oil, Lemon peel extract</p>
+    <a href="#" class="btn btn-primary"></a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://images.unsplash.com/photo-1655892817271-c66841c2506e?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title">🌸💦 Lavender & Aloe Vera Calm Shampoo</h5>
+    <p class="card-text">Use: Soothes sensitive scalp, adds gentle moisture</p>
+    <p class="card-text">Vibe: 😌 Relaxing · 🌿 Spa-like · 🛁 Calming</p>
+
+        <p class="card-text">Key Ingredients: Lavender oil, Aloe Vera juice</p>
+
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://images.unsplash.com/photo-1642505172816-5c897043ce99?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title"> 🌺🌱 Neem & Hibiscus Purify Shampoo</h5>
+    <p class="card-text">Use: Fights dandruff, deeply cleanses, strengthens roots</p>
+    <p class="card-text">Vibe: 🧘‍♀️ Ayurvedic · 🌸 Earthy · 🌿 Balancing</p>
+    <p class="card-text">Key Ingredients: Neem leaf extract, Hibiscus flower</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://images.unsplash.com/photo-1642505173156-e5ff10af9da6?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title">🧅🌾 Onion & Methi Strengthen Shampoo</h5>
+    <p class="card-text">Use: Reduces hair fall, strengthens follicles</p>
+    <p class="card-text">Vibe: 💪 Bold · 🌰 Nutritive · 🔬 Strength-Boosting</p>
+    <p class="card-text">Key Ingredients: Onion oil, Fenugreek (Methi) extract</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+</div>
+
+ </div> 
+<br><br><br><br><br><br><br><br>
+<!--the 3series-->
+<br><br><br><br>
+<div class="section3">  
+    <div class="title" style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: left;color: green;padding-left: 40px;">
+<h1 style="font-weight: bold;">🪵 Wooden Massage Combs – Natural Hair Care Essentials</h1>
+<h5 style="font-family: Georgia, 'Times New Roman', Times, serif;">Boosts scalp circulation for healthy growth</h5>
+<button type="button" class="btn btn-outline-primary" style="font-family: Georgia, 'Times New Roman', Times, serif;text-decoration: none;color: black;">View All</button>
+    </div>
+
+<div class="seller3">
+<div class="card" style="width: 18rem;height: 38rem;">
+   <img src="https://m.media-amazon.com/images/I/71-3nxacerL._UF1000,1000_QL80_.jpg" class="card-img-top" alt="...">
+
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">🌿Neem Massage Comb</h5>
+    <p class="card-text">Key : Reduces dandruff and promotes healthy scalp</p>
+    <p class="card-text">Use : Helps reduce dandruff and scalp irritation 🧴</p>
+    <p class="card-text">Vibe : Natural, earthy, and rooted in Ayurveda 🌿</p>
+    <a href="#" class="btn btn-primary">go somwwhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 38rem;">
+  <img src="https://images.unsplash.com/photo-1680670500665-22e480bcb0fa?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;"> Neem Wooden Comb</h5>
+    <p class="card-text">Key:scalp stimulation.</p>
+    <p class="card-text">Use:Easily detangles thick, curly, or long hair without breaking strands.</p>
+
+        <p class="card-text">Vibe:Natural, eco-friendly, and calming — connects you with nature 🌳✨</p>
+
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 38rem;">
+    <img src="https://m.media-amazon.com/images/I/61pQsKDl0FL._AC_UF1000,1000_QL80_.jpg" class="card-img-top" alt="..." >
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">Neem Facial & Massage</h5>
+    <p class="card-text">Key: Natural tool for hair and facial massage.</p>
+    <p class="card-text">Use:Stimulates scalp blood flow, relieves tension, and boosts relaxation</p>
+    <p class="card-text">Vibe:Refreshing, soothing, and holistic wellness 🌿✨</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 39rem;">
+  <img src="https://i.pinimg.com/736x/ca/e5/e1/cae5e19382517d363d97dc49324bd69e.jpg" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;"> Scalp Massage Brush</h5>
+    <p class="card-text">Key:Tool with soft bristles or silicone tips for gentle scalp stimulation.</p>
+    <p class="card-text">Use:Enhances blood circulation, relieves tension, and promotes healthier hair growth.</p>
+    <p class="card-text">Vibe:Calming, refreshing, and self-care luxury 💆‍♀️✨</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+
+
+</div>
+
+ </div>
+
+<!--3rd seriese ends here-->
+<br><br><br><br>
+<!--4th series starts here-->
+<br><br><br><br>
+<div class="section4">  
+    <div class="title" style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: left;color: green;padding-left: 40px;">
+<h1 style="font-weight: bold;">🎨 Natural Hair Dyes : EarthTone Herbal Color Blend</h1>
+<h5 style="font-family: Georgia, 'Times New Roman', Times, serif;">Purpose: Safe, chemical-free coloring for a natural look.</h5>
+<button type="button" class="btn btn-outline-primary" style="font-family: Georgia, 'Times New Roman', Times, serif;text-decoration: none;color: black;">View All</button>
+    </div>
+
+<div class="seller4">
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1661769021743-7139c6fc4ab9?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." >
+ 
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">EarthTone Herbal Color 🌱</h5>
+    <p class="card-text">Key Feature 🌱	: 100% plant-based 🌿</p>
+    <p class="card-text"> Use 🎨 : Natural hair coloring  🎨</p>
+    <p class="card-text">Earthy & pure  🌍</p>
+    <a href="#" class="btn btn-primary"></a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1731087150117-4a9a349996c2?q=80&w=1112&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title"><b> PureGlow Henna Kit ✨</b> </h5>
+    <p class="card-text">Key: Strengthens hair  💪</p>
+    <p class="card-text">Use : Adds warm red tones ❤️</p>
+
+        <p class="card-text">Vibe : Traditional & warm 🧡</p>
+
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1731935481449-25d611f19c30?q=80&w=1112&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">Indigo Dark Hair Tint</h5>
+    <p class="card-text">Key : Chemical-free black ❌🧪</p>
+    <p class="card-text">Use : Darkens hair naturally 🖤</p>
+    <p class="card-text">Vibe : Bold & natural ❤️</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1731601049980-3a724350e93d?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">Beetroot & Hibiscus Dye 🌺</h5>
+    <p class="card-text">Key : Vegetable pigments 🥕</p>
+    <p class="card-text">Use : Adds subtle red highlights 🌹</p>
+    <p class="card-text">Vibe : Fresh & organic 🍃
+</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+
+</div>
+
+ </div>
+
+<!--4th series ends here-->
+<br><br><br><br>
+
+<!--5series starts--->
+<br><br><br><br>
+<div class="section5">  
+    <div class="title" style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: left;color: green;padding-left: 40px;">
+<h1 style="font-weight: bold;">Hair Serums</h1>
+<h5 style="font-family: Georgia, 'Times New Roman', Times, serif;">Hair serums are lightweight, silicone-based treatments designed to smooth frizz, add shine, protect against humidity, and nourish your hair.</h5>
+<button type="button" class="btn btn-outline-primary" style="font-family: Georgia, 'Times New Roman', Times, serif;text-decoration: none;color: black;">View All</button>
+    </div>
+<br><br>
+<div class="seller5">
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1681408059516-c8b54ed3a719?q=80&w=1251&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." >
+ 
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;"> GlowSilk Serum 🌸</h5>
+    <p class="card-text">Key : Ultra-shine with frizz control 💖</p>
+    <p class="card-text">Use : Smooths and adds shine ✨</p>
+    <p class="card-text">Vibe : Elegant & Glossy 🪞</p>
+    <a href="#" class="btn btn-primary"></a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1681236320883-e8fe7e46d05d?q=80&w=1078&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">HydraBoost Elixir💧</h5>
+    <p class="card-text">Key : Deep hydration and repair 🛡️💧</p>
+    <p class="card-text">Use : Repairs dry, damaged hair	🫧 </p>
+
+        <p class="card-text">Vibe : Nourishing & Fresh💚
+</p>
+
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1736852273319-ef2f63821143?q=80&w=1355&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">VolumeLift Serum💖	</h5>
+    <p class="card-text">Key : Lightweight, adds volume	</p>
+    <p class="card-text">Use : Boosts fine hair fullness🎈	</p>
+    <p class="card-text">Vibe : Bouncy & Airy🌟</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;height: 35rem;">
+  <img src="https://plus.unsplash.com/premium_photo-1661609745213-27222c06a9c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="...">
+  <div class="card-body" style="font-family: Georgia, 'Times New Roman', Times, serif;">
+    <h5 class="card-title" style="font-weight: bold;">HeatGuard Serum🧴🛡️</h5>
+    <p class="card-text">Key : Protects from heat styling	🔥 </p>
+    <p class="card-text">Use : Shields hair from heat damage	💇‍♀️</p>
+    <p class="card-text">Vibe : Protective & Sleek 🛡️☀️</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+</div>
+
+ </div>
+<!--5series ends-->
+<br><br><br><br>
+<!--END-->
+</><!--the whole series of best seller products in one div--><!--end-->
+
+</div>
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+<div class="safe">
+<h1 style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;">Our Safety : 🌿 100% Natural Ingredients</h1>
+</div>
+
+<div class="rabbit">
+
+<div class="germs">
+<div class="media" style="max-width: 400px;">
+  <div class="media p-3">
+    <div class="media-body">
+      <h5 class="mt-0">✅ Dermatologically Tested</h5>
+      <p style="font-size: 0.9rem;">Gentle yet effective. Each product has been dermatologically tested to ensure it's safe for all hair types and scalp conditions — even the most sensitive. </p>
+      <p class="mb-0" style="font-size: 0.85rem;">No irritation, just healthy results.</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="media" style="max-width: 400px;">
+  <div class="media p-3">
+    <div class="media-body">
+      <h5 class="mt-0">🏅 Certified & Trusted</h5>
+      <p style="font-size: 0.9rem;">We’re proud to be certified by leading quality and safety standards. </p>
+      <p class="mb-0" style="font-size: 0.85rem;">From sourcing to packaging, our processes meet rigorous ethical and sustainability benchmarks, so you can care for your hair with confidence.</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="media" style="max-width: 400px;">
+  <div class="media p-3">
+    <div class="media-body">
+      <h5 class="mt-0">🌿 100% Natural Ingredients</h5>
+      <p style="font-size: 0.9rem;">Our hair care products are crafted with nature’s purest botanicals — free from synthetic chemicals, parabens, and sulfates. </p>
+      <p class="mb-0" style="font-size: 0.85rem;">Every formula is rooted in traditional remedies and powered by plant-based goodness.</p>
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+<br><br>
+   <div class="rectangle">
+     <div class="circle">
+
+     </div>
+   </div>
+   <br><br>
+         <h4 style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;">✨ A gentle, eco-conscious formula that truly respects both your hair and the planet.🌏 <br>🌱If you’re transitioning to a natural hair routine, this is a great place to start 👑</h4>
+
+<br><br><br><br>
+<h1 style="font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;">What Our Customer's Say ! </h1>
+<hr>
+<div class="customer">
+
+<div class="card-columns">
+  <div class="card" ><br>
+    <img src="https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" style="border-radius: 100px;height: 200px;width: 200px;">
+    <div class="card-body">
+      <h6 class="card-title">"Hairvana gave my curls life! They used to feel dry and frizzy, but now they’re bouncy, defined, and soft to the touch. I’ve had more compliments in the last month than in the past year. This stuff is magic."</h6>
+      <h6 class="card-text">— Jasmine L., Verified Buyer</h6>
+    </div>
+  </div>
+  <div class="card p-3">
+    <blockquote class="blockquote mb-0 card-body">
+      <p>“In every walk with nature one receives far more than he seeks.”</p>
+      <footer class="blockquote-footer">
+        <small class="text-muted">
+          By <cite title="Source Title">John Muir (naturalist)</cite>
+        </small>
+      </footer>
+    </blockquote>
+  </div>
+  <div class="card">
+    <img src="https://plus.unsplash.com/premium_photo-1723867331866-e112500178a4?q=80&w=827&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." style="border-radius: 100px;height: 200px;width: 200px;">
+    <div class="card-body">
+      <h6 class="card-title">“I love how clean and gentle the ingredients are. No more itchy scalp or heavy build-up. My hair feels light, healthy, and actually breathes. Thank you Hairvana for keeping it real!”</h6>
+      <h6 class="card-text">— Maya S., Natural Hair Enthusiast</h6>
+      <p class="card-text"><small class="text-muted">Last updated 1 hr ago</small></p>
+    </div>
+  </div>
+  <div class="card bg-info text-white text-center p-3">
+    <blockquote class="blockquote mb-0">
+      <p>“A woman who cuts her hair is about to change her life.”</p>
+      <footer class="blockquote-footer text-white">
+        <small>
+          By <cite title="Source Title">Coco Chanel</cite>
+        </small>
+      </footer>
+    </blockquote>
+  </div>
+  <div class="card text-center">
+    <div class="card-body">
+          <img src="https://images.unsplash.com/photo-1481214110143-ed630356e1bb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." style="border-radius: 100px;height: 200px;width: 200px;">
+
+      <h6 class="card-title">“I was nervous about transitioning to a natural routine, but Hairvana made it so easy. My hair feels stronger, and I’m finally seeing growth without breakage. 10/10 would recommend for anyone starting their healthy hair journey!”</h6>
+      <h6 class="card-text">— Aria P., First-Time Customer</h6>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." >
+  </div>
+  <div class="card p-3 text-right">
+    <blockquote class="blockquote mb-0">
+      <p>“Look deep into nature, and then you will understand everything better.”</p>
+      <footer class="blockquote-footer">
+        <small class="text-muted">
+          By <cite title="Source Title"> Albert Einstein</cite>
+        </small>
+      </footer>
+    </blockquote>
+  </div>
+  <div class="card">
+    <div class="card-body">
+       <img src="https://images.unsplash.com/photo-1588516903720-8ceb67f9ef84?q=80&w=744&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="..." style="border-radius: 100px;height: 200px;width: 200px;">
+   
+      <h6 class="card-title">“This is my third order. I can’t imagine using anything else. My hair is growing faster, shedding less, and feels healthier overall. Hairvana really changed the game for me.”</h6>
+      <h6 class="card-text"> — Nina D., Returning Customer.</h6>
+      <p class="card-text"><small class="text-muted">Last updated 15 mins ago</small></p>
+    </div>
+  </div>
+</div>
+
+</div>
+<br><br><br><br>
+
+
+<div class="profile">
+
+
+
+</div>
+</body>
+</html>
