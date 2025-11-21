@@ -1,0 +1,167 @@
+.main{
+ background-image: url(https://simplywallpaper.net/pictures/2010/10/17/disney-tangled-rapunzel-tower-wallpaper.jpg);   
+background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 500px;
+}
+.buton{
+    display: flex;
+    gap: 20px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.offer{
+    background-size: cover;     
+background-position: center; 
+background-repeat: no-repeat; 
+width: 100%; 
+    height: 650px;
+
+background-image: url(https://plus.unsplash.com/premium_photo-1675518171223-216e2e0a6658?q=80&w=1142&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+opacity: 100%;  
+}
+.header{
+    display: flex;
+    gap: 20px;
+}
+.green{
+    display: flex;
+    padding-left: 350px;
+    gap: 20px;
+    padding-top: 20px;
+}
+.third{
+display: flex;
+gap: 50px;
+padding-left: 150px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.kit{height: 500px;
+display: flex;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sellers{
+    height: 600px;
+}
+.seller1{
+    padding-top: 70px;
+    height: 700px;
+display: flex;
+gap: 15px;
+padding-left: 40px;
+background-image: url(https://plus.unsplash.com/premium_photo-1667486075273-5d3bf432550b?q=80&w=2033&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-size: cover;     
+background-position: center; 
+background-repeat: no-repeat; 
+width: 100%; 
+}
+.section2{ 
+    height: 680px;
+    padding-top: 70px;
+}
+.seller2{
+    padding-top: 70px;
+    height: 700px;
+display: flex;
+gap: 15px;
+padding-left: 40px;
+background-size: cover;     
+background-position: center; 
+background-repeat: no-repeat; 
+width: 100%; 
+background-image: url(https://plus.unsplash.com/premium_photo-1671359843158-5e9deabe86ca?q=80&w=1138&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.section3{
+   height: 680px;
+    padding-top: 70px; 
+}
+.seller3{
+padding-top: 70px;
+    height: 700px;
+display: flex;
+gap: 15px;
+padding-left: 40px;
+background-size: cover;     
+background-position: center; 
+background-repeat: no-repeat; 
+width: 100%; 
+background-image:url(https://plus.unsplash.com/premium_photo-1668161360306-02c35efb5370?q=80&w=1139&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) ;
+}
+.section4{
+height: 680px;
+    padding-top: 70px;
+}
+.seller4{
+   padding-top: 70px;
+    height: 700px;
+display: flex;
+gap: 15px;
+padding-left: 40px;
+background-size: cover;     
+background-position: center; 
+background-repeat: no-repeat; 
+width: 100%;  
+background-image: url(https://plus.unsplash.com/premium_photo-1670774470200-5e02fddcf37f?q=80&w=1135&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.section5{
+height: 680px;
+    padding-top: 70px;
+}
+.seller5{
+   padding-top: 70px;
+    height: 700px;
+display: flex;
+gap: 15px;
+padding-left: 40px;
+background-size: cover;     
+background-position: center; 
+background-repeat: no-repeat; 
+width: 100%;  
+background-image: url(https://plus.unsplash.com/premium_photo-1675518474386-1ab41eb0aa94?q=80&w=1175&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.rabbit{
+display: flex;
+padding-left:20px ;
+}
+.germs{
+    display: flex;
+    padding-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.circle{
+    background-color: brown;
+    height: 400px;
+    text-align: center;
+    width: 400px;
+    border-radius: 200px;
+    background-image: url(https://images.unsplash.com/photo-1712641970791-ea9a566c93bc?q=80&w=1119&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-size: cover;     
+background-position: center; 
+background-repeat: no-repeat; 
+
+}
+.rectangle{
+    text-align: center;
+    padding-left: 450px;
+    
+}
+.customer{
+    padding-top: 40px;
+    height: 1000px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.ship{
+    display: flex;
+}
+footer{display: flex;
+background-color: rgb(141, 138, 138);
+
+}
+.profile{
+    height: 600px;
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
